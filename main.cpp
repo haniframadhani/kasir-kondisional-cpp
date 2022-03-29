@@ -98,7 +98,7 @@ int main() {
   cout << "Ongkir        = " << ongkir << endl;
   cout << "Total harga   = " << hargaFinal << endl;
   cout << endl;
-  cout << "****** Terima Kasih ******" << endl;
+  cout << "****** thank you ******" << endl;
   
   return 0;
 }
