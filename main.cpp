@@ -7,7 +7,7 @@ bool lanjut = true;
 int main() {
   while(lanjut == true) {
   cout<<"----------------------------------"<<endl;
-  cout <<" Delivery Rumah Makan Kasih Ibu "<< endl;
+  cout <<" Delivery Resto Kasih Ibu "<< endl;
   cout<<"----------------------------------" <<endl;
   cout << "         Daftar Menu" << endl;
   cout << "1. Ayam Geprek\t: Rp. 21000" << endl;
